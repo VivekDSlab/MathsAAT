@@ -1,0 +1,11 @@
+p1=gamcdf(60,8,15)
+
+p2-gamcdf(120,8,15)
+
+p3-gamcdf(30,8,15)
+
+fprintf('\n Probability that the mouse survives (1) between 60 and 120 weeks.
+
+%f,p2-p1)
+
+fprintf('\n Probability that the mouse survives (ii)at least 30 weeks %f',1-p3)
